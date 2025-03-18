@@ -82,7 +82,7 @@ class _GestureExampleState extends State<GestureExample> {
             ),
           ),
 
-          // ✅ Image in Container
+      // For inserting Images
           Container(
             margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
             width: double.infinity,
